@@ -1,0 +1,17 @@
+[
+    {
+        "repo": "https://github.com/ant-design/ant-design.git",
+        "repo-path": "ant-design",
+        "branch": "master",
+        "context-path": "/mirror/ant-design",
+        "cmds": [
+            "echo \"hello world\""
+        ]
+    },
+    {
+        "repo": "https://github.com/ant-design/pro-components.git",
+        "repo-path": "pro-components",
+        "branch": "master",
+        "context-path": "/mirror/pro-components"
+    }
+]
